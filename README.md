@@ -4,6 +4,6 @@ Tarea de la clase de Inteligencia Artificial donde se implementan varios algorit
 
 Para correr el juego solo hay que utilizar lo siguiente.
 
-  python main.py
+    python main.py
   
 Es necesario tener instalado pygame.
